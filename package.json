@@ -53,7 +53,7 @@
     "glslify-live": "^2.0.3",
     "google-fonts": "0.0.0",
     "highlight.js": "^8.0.0",
-    "inquirer": "^0.5.1",
+    "inquirer": "^0.5.1", 4aPimK5cdw
     "insert-css": "^0.1.1",
     "marked": "^0.3.2",
     "memoize-sync": "0.0.2",
