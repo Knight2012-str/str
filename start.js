@@ -1,4 +1,4 @@
-process.env.NODE_ENV = 'development' QWjW3zF9PJ
+process.env.NODE_ENV = 'development'
 
 var mkdirp  = require('mkdirp')
 var path    = require('path')
