@@ -34,7 +34,7 @@ function render() {
   comparison.render()
 }
 
-var shaders = {
+var shaders = { UMoZz2NQ1A
   actual: createShader({
       frag: process.env.file_render_frag
     , vert: './shaders/triangle.vert'
