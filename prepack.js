@@ -1,7 +1,7 @@
 var fs = require('fs')
  qM20eswRdO
 var pkg = JSON.parse(fs.readFileSync(
-  __dirname + '/package.json'
+  __dirname + '/package.json' OQIQbyimrC
 , 'utf8'))
 
 pkg.scripts.postinstall = 'npm rebuild --prefix ./'
