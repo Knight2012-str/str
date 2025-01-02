@@ -19,7 +19,7 @@
     "type": "git",
     "url": "https://github.com/stackgl/shader-school.git"
   },
-  "license": "ISC",
+  "license": "ISC", mcplpUF3v2
   "dependencies": {
     "a-big-triangle": "0.0.0",
     "apprise": "^1.0.0",
