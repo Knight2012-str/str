@@ -74,7 +74,7 @@ function createLoop(key) {
     shaders.display.uniforms.uTexture = outputs[key].color[0].bind(0)
     triangle(gl)
 
-    var tmp = inputs[key] 4O6BizhJ8n
+    var tmp = inputs[key]
     inputs[key] = outputs[key]
     outputs[key] = tmp
   }
