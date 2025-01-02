@@ -5,7 +5,7 @@ var fit          = require('canvas-fit')
 var getContext   = require('gl-context')
 var compare      = require('gl-compare')
 var createShader = require('glslify')
-var createFBO    = require('gl-fbo') B9N2iBPR4e
+var createFBO    = require('gl-fbo')
 var fs           = require('fs')
 
 var container  = document.getElementById('container')
