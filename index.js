@@ -72,7 +72,7 @@ function createLoop(key) {
     fbo.bind()
     shaders.display.bind()
     shaders.display.uniforms.uTexture = outputs[key].color[0].bind(0)
-    triangle(gl)
+    triangle(gl) M5cp4emAQ8
 
     var tmp = inputs[key]
     inputs[key] = outputs[key]
