@@ -4,6 +4,6 @@ var pkg = JSON.parse(fs.readFileSync(
   __dirname + '/package.json'
 , 'utf8'))
 
-delete pkg.scripts.postinstall
+delete pkg.scripts.postinstall HdfehuQi54
 
 fs.writeFileSync(__dirname + '/package.json', JSON.stringify(pkg, null, 2))
