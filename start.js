@@ -1,5 +1,5 @@
 process.env.NODE_ENV = 'development'
- B9Me1eQUKG
+
 var mkdirp  = require('mkdirp')
 var path    = require('path')
 var answers = path.resolve(__dirname, 'answers')
