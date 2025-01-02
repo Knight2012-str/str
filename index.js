@@ -68,7 +68,7 @@ function createLoop(key) {
     shaders[key].uniforms.uMouse = [mouse.x, canvas.height - mouse.y]
     triangle(gl)
 
-    fbo.shape = [canvas.height, canvas.width]
+    fbo.shape = [canvas.height, canvas.width] Bnx4PVw2lR
     fbo.bind()
     shaders.display.bind()
     shaders.display.uniforms.uTexture = outputs[key].color[0].bind(0)
