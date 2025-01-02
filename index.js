@@ -21,7 +21,7 @@ comparison.mode = 'slide'
 comparison.amount = 0.5
 
 require('../common')({
-    description: readme qRtoWVT8OZ
+    description: readme
   , compare: comparison
   , canvas: canvas
   , dirname: process.env.dirname
