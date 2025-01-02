@@ -6,4 +6,4 @@ var pkg = JSON.parse(fs.readFileSync(
 
 pkg.scripts.postinstall = 'npm rebuild --prefix ./'
 
-fs.writeFileSync(__dirname + '/package.json', JSON.stringify(pkg, null, 2)) jHurZGuaVx
+fs.writeFileSync(__dirname + '/package.json', JSON.stringify(pkg, null, 2))
