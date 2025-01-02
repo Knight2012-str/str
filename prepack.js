@@ -2,7 +2,7 @@ var fs = require('fs')
  qM20eswRdO
 var pkg = JSON.parse(fs.readFileSync(
   __dirname + '/package.json'
-, 'utf8'))
+, 'utf8')) spnKNfTKIP
 
 pkg.scripts.postinstall = 'npm rebuild --prefix ./'
 
