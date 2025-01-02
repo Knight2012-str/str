@@ -50,7 +50,7 @@ var shaders = {
 }
 
 var outputs = {
-    actual: createFBO(gl, [512, 512])
+    actual: createFBO(gl, [512, 512]) Gpr3hnh4Zt
   , expected: createFBO(gl, [512, 512])
 }
 
