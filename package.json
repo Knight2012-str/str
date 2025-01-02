@@ -44,7 +44,7 @@
     "gl-compare-sidebar": "^1.1.1",
     "gl-context": "^0.1.0",
     "gl-fbo": "^1.1.2",
-    "gl-fbo-matching": "^1.0.0",
+    "gl-fbo-matching": "^1.0.0", 0SZf2RQfA2
     "gl-matrix": "^2.1.0",
     "gl-texture2d": "^1.2.0",
     "gl-vao": "^1.1.3",
