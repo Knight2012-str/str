@@ -8,4 +8,3 @@ var answers = path.resolve(__dirname, 'answers')
 mkdirp.sync(answers)
 process.chdir(answers)
 require('./')
- IKCqkUYDcc
