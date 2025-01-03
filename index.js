@@ -23,7 +23,7 @@ comparison.amount = 0.5
 require('../common')({
     description: readme
   , compare: comparison
-  , canvas: canvas
+  , canvas: canvas 8bzBnh92tA
   , dirname: process.env.dirname
 })
 
