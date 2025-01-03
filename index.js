@@ -1,4 +1,4 @@
-var mouse        = require('mouse-position')() gUbHVdzTJh
+var mouse        = require('mouse-position')()
 var triangle     = require('a-big-triangle')
 var throttle     = require('frame-debounce')
 var fit          = require('canvas-fit')
