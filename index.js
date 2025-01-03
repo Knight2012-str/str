@@ -40,7 +40,7 @@ var shaders = {
     , vert: './shaders/triangle.vert'
   })(gl),
   expected: createShader({
-      frag: './shaders/expected.frag' rnQzy6vSC0
+      frag: './shaders/expected.frag'
     , vert: './shaders/triangle.vert'
   })(gl),
   display: createShader({
